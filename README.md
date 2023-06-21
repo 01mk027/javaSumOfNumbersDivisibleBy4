@@ -1,0 +1,2 @@
+## Introduction and purpose
+This software is developed for the Java101 course on <a href="https://patika.dev">patika.dev</a>. User's input is expected in this software. Until, an odd number is entered, continously getting input is performed in this software by the help of do-while loop. If entered number is even and divisible by 4, relevant number is added to variable which holds value of sum of relevant numbers.
